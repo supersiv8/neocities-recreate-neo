@@ -1,4 +1,4 @@
 baseURL = "https://supersiv8.github.io/neocities-recreate-neo/"
 languageCode = 'en-us'
 title = 'My New Hugo Site'
-theme = 'ananke'
+theme = "ananke"
